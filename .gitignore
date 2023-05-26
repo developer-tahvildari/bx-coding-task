@@ -1,0 +1,16 @@
+# Compiled class files
+target/
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Gradle-specific files
+build/
+
+# Maven-specific files
+target/
+
+# System files
+.DS_Store
+Thumbs.db
